@@ -21,5 +21,5 @@
 </div>
 <br/> 
 
-### "A tentativa é uma desculpa para o fracasso, não tente, vá e faça!"
+
 Apenas um aprendiz de programação, apaixonado por tecnologia, motivado a sempre aprender e melhorar a cada dia. 
